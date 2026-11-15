@@ -19,15 +19,15 @@
 │ [1] CORE LANGUAGES                 │ [2] LINUX & SYSTEMS EXPERTISE       │
 ├────────────────────────────────────┼─────────────────────────────────────┤
 │                                    │                                     │
-│ ❯ C          [██████████] Systems  │ ❯ OS       Arch / Debian / RHEL     │
-│ ❯ Rust       [██████████] Memory   │ ❯ Shell    Bash / Zsh / POSIX sh    │
+│ ❯ C          [██████████] Systems  │ ❯ OS       Arch / Debian            │
+│ ❯ Rust       [██████████] Memory   │ ❯ Shell    Bash                     │
 │ ❯ Java       [█████████░] JVM/Core │ ❯ Core     systemd / Kernel / Net   │
-│ ❯ TypeScript [█████████░] Fullstack│ ❯ Infra    Docker / SSH / Vim / Tmux│
+│ ❯ TypeScript [█████████░] Fullstack│ ❯ Infra    Docker / SSH / Vim       │
 │                                    │                                     │
 ├────────────────────────────────────┴─────────────────────────────────────┤
 │ [3] NETWORK & SOCIAL LINKS (Click to open)                               │
 │                                                                          │
-│   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">[F1] LinkedIn</a>      <a href="mailto:your.email@gmail.com">[F2] Gmail</a>      <a href="https://stackoverflow.com/users/YOUR_SO_ID/YOUR_NAME">[F3] Stack Overflow</a>                 │
+│   <a href="https://www.linkedin.com/in/rafaelmachado37">[F1] LinkedIn</a>      <a href="mailto:rafaelmachadocd37@gmail.com">[F2] Gmail</a>      <a href="https://stackoverflow.com/users/31556781/rafael-machado">[F3] Stack Overflow</a>                 │
 │                                                                          │
 ├──────────────────────────────────────────────────────────────────────────┤
 │ NORMAL │ :q quit  :help languages  [Enter] open-link │ 100% ☰  15/15 ln  │
@@ -44,13 +44,13 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/rafaelmachado37">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:rafaelmachadocd37@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://stackoverflow.com/users/YOUR_SO_ID/YOUR_NAME">
+  <a href="https://stackoverflow.com/users/31556781/rafael-machado">
     <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
 </p>
